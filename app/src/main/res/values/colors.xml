@@ -2,10 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorSecondary">#03DAC5</color>
-    <color name="colorPrimaryText">#212121</color>
-    <color name="colorSecondaryText">#757575</color>
-    <color name="colorBackground">#FFFFFF</color>
-    <color name="colorCardBackground">#F5F5F5</color>
+    <color name="colorPrimary">#3F51B5</color> <!-- Мягкий синий для основного цвета -->
+    <color name="colorSecondary">#009688</color> <!-- Успокаивающий бирюзовый -->
+    <color name="colorPrimaryText">#212121</color> <!-- Чёрный для текста, чтобы контраст был хорошим -->
+    <color name="colorSecondaryText">#757575</color> <!-- Светлый серый для второстепенного текста -->
+    <color name="colorBackground">#F5F5F5</color> <!-- Очень светлый серый для фона, менее яркий, чем чистый белый -->
+    <color name="colorCardBackground">#FFFFFF</color> <!-- Чистый белый для карточек, для контраста с фоном -->
+
 </resources>
